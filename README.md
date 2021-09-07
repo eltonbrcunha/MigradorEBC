@@ -30,4 +30,4 @@ Necessário ter uma conta com usuário e senha registrado no SQL Server
 
 <h2> Desenvolvedor :technologist:</h2>
 Elto Brito
-
+![Linkedin](https://www.linkedin.com/in/elton-cunha-87631056)
