@@ -1,0 +1,12 @@
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\MigradorEBC.exe
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\MigradorEBC.dll
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\MigradorEBC.deps.json
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\MigradorEBC.runtimeconfig.json
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\MigradorEBC.pdb
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\Newtonsoft.Json.dll
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\System.Data.SqlClient.dll
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\runtimes\win-x64\native\sni.dll
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\runtimes\win-x86\native\sni.dll
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ELTON\Documents\Visual Studio 2019\MigradorEBC\bin\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
